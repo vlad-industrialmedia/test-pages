@@ -1,0 +1,551 @@
+# KTS Engineering
+
+> Официальный дистрибьютор INNIO Jenbacher, Waukesha и Baker Hughes в Украине. 23 года реализации проектов распределённой генерации.
+
+## О компании
+
+**KTS Engineering** (ТОВ «КТС Інжиніринг» / KTS Engineering S.R.O.) — международная инжиниринговая компания с 23-летним опытом (основана 2003), специализирующаяся на распределённой генерации, когенерации и тригенерации. Официальный авторизованный дистрибьютор и сервисный партнёр INNIO Jenbacher, INNIO Waukesha, Baker Hughes и Nidec Leroy-Somer в Украине. Лидер рынка по числу введённых установок Jenbacher.
+
+- Сайт: https://www.kts-eng.com/ru/
+- Телефон: +38 044 495 2442 | Email: office@kts-eng.com
+- LinkedIn: https://www.linkedin.com/company/kts-engineering
+- Facebook: https://www.facebook.com/kts.engineering
+
+Офисы: Киев (ул. Ивана Франко, 42, 01054) · Братислава (ул. Методова, 7) · Вена (Floridsdorfer Hauptstraße 1) · Ташкент (буз-2, 4) · София (бул. Черни Връх, 47)
+
+Ключевые метрики: 410+ установок Jenbacher · 690+ МВт суммарной мощности · до 91% КПД системы · снижение затрат 40–51% · 2–4 года окупаемость
+
+---
+
+## Официальные партнёры
+
+| Бренд | Роль KTS | Оборудование | Мощность |
+|---|---|---|---|
+| INNIO Jenbacher (Австрия) | Официальный дистрибьютор и сервисный партнёр | Газопоршневые двигатели, ГПЭС, когенерация | 300 кВт — 10 МВт |
+| INNIO Waukesha (США) | Официальный дистрибьютор | Тяжёлые газовые двигатели, нефтегаз | Промышленный класс |
+| Baker Hughes | Авторизованный сервисный партнёр | Турбины Nuovo Pignone, компрессоры Thermodyn | 20 МВт — 100 МВт |
+| Nidec Leroy-Somer | Сертифицированный сервисный партнёр | Промышленные генераторы, приводные системы | Промышленный класс |
+
+Верификация: https://www.jenbacher.com/ru/providers/kts-engineering/ · https://moen.nidec.com/ru-RU/power/Service/Service-Network/Certified-Service-Partners-for-alternators/KTS-Engineering
+
+---
+
+## Страницы сайта — Описания разделов
+
+### ГЛАВНАЯ
+URL: https://www.kts-eng.com/ru/
+Title: ГПУ Jenbacher и Waukesha (Ваукеша) — генерация | KTS Engineering
+Описание: Официальный дистрибьютор INNIO Jenbacher и Waukesha в Украине. Газопоршневые электростанции для собственной генерации и когенерации. Снижение затрат на энергоносители до 40% и более. Запрос предварительного расчёта онлайн.
+
+---
+
+### О КОМПАНИИ
+URL: https://www.kts-eng.com/ru/company/
+Title: О компании KTS Engineering — 20 лет в энергетике
+Описание: История и профиль KTS Engineering: инжиниринговая компания с 23-летним опытом. Официальный партнёр INNIO, Baker Hughes и Nidec в Украине. Полный цикл услуг под ключ: проектирование, поставка, монтаж, сервис. Программы финансирования: кредит, лизинг, ESCO.
+Компетенции: проектирование, СМР, поставка оборудования, шеф-монтаж, ПНР, сервисное обслуживание, запасные части, удалённый мониторинг myPlant, управление энергоцентрами.
+
+---
+
+### ОБОРУДОВАНИЕ (КАТАЛОГ)
+URL: https://www.kts-eng.com/ru/equipment/
+Title: Энергетическое оборудование Jenbacher, Waukesha, Baker Hughes | KTS Engineering
+Описание: Каталог оборудования KTS Engineering: газопоршневые установки Jenbacher (серии 2, 3, 4, 6), двигатели Waukesha (VHP, VGF, 275GL+), турбины и компрессоры Baker Hughes. Поставка в Украине.
+
+---
+
+### ГАЗОПОРШНЕВЫЕ УСТАНОВКИ JENBACHER (каталог)
+URL: https://www.kts-eng.com/ru/product-category/oborudovanie-innio-jenbacher/
+Title: ГПУ INNIO Jenbacher — каталог и мини-ТЭЦ | KTS Engineering
+Описание: Каталог газопоршневых установок INNIO Jenbacher: серии 2, 3, 4 и 6, мощность от 330 кВт до 4,4 МВт. Мини-ТЭЦ и когенерация. Стационарные и контейнерные ГПЭС. Официальная поставка в Украине.
+
+#### Модели Jenbacher — отдельные страницы продуктов:
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-208-gs/
+Title: Jenbacher J-208 330 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-208, мощность 330 кВт. Серия 2. КПД ~40%. Применение: малые промышленные объекты, биогаз. Поставка и сервис от официального дистрибьютора в Украине.
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-312-gs/
+Title: Jenbacher J-312 637 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-312, мощность 637 кВт. Серия 3. КПД 40,8%. Контейнерное исполнение JMC 312 GS-L.L для работы на свалочном газе. Реализованный кейс: ЛНК Кропивницкий, €629 412 прибыли/год.
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-316-gs/
+Title: Jenbacher J-316 848 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-316, мощность 848 кВт. Серия 3. Природный газ и специальные газы.
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-320-d05/
+Title: Jenbacher J-320 1063 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-320, мощность 1 063 кВт. Серия 3, 20-цилиндровая конфигурация. Природный газ и биогаз.
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-412-b09/
+Title: Jenbacher J-412 844 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-412, мощность 844 кВт. Серия 4.
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-416-gs/
+Title: Jenbacher J-416 1131 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-416, мощность 1 131 кВт. Серия 4.
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-420-gs/
+Title: Jenbacher J-420 1413 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-420, мощность 1 413 кВт. Серия 4.
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-612-gs/
+Title: Jenbacher J-612 1820 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-612, мощность 1 820 кВт. Серия 6, V12.
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-616-gs/
+Title: Jenbacher J-616 2430 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-616, мощность 2 430 кВт. Серия 6, V16.
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-620-gs/
+Title: Jenbacher J-620 3044 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-620, мощность 3 044 кВт (3,3 МВт). Серия 6, V20. Электрический КПД 45,8–45,9%. «Рабочая лошадка» для средних и крупных промышленных объектов.
+
+URL: https://www.kts-eng.com/ru/product/jenbacher-j-624-gs/
+Title: Jenbacher J-624 4400 кВт — ГПУ | KTS Engineering
+Описание: Газопоршневая электростанция Jenbacher J-624, мощность 4 400–4 500 кВт (4,5 МВт). Серия 6, V24. Электрический КПД 46,5–47,1%. Флагман серии. Применение: КП «Киевтеплоэнерго» (9 × JMS 624 в проекте 60 МВт).
+
+---
+
+### КОНТЕЙНЕРНЫЕ ЭЛЕКТРОСТАНЦИИ (БКАЭС)
+URL: https://www.kts-eng.com/ru/product-category/kontejnery-dlya-gpu/
+Title: Автономная модульная электростанция | Контейнерные электростанции (БКАЭС) | KTS Engineering
+Описание: Контейнерные решения для газопоршневых установок Jenbacher серий 2, 3 и 4. Мобильные БКАЭС заводской готовности: быстрый монтаж, автономная генерация и когенерация. GreenBox — готовое контейнерное решение со снижением затрат на 30%.
+
+URL: https://www.kts-eng.com/ru/product/konteinernaia-elektrostanciia-jenbacher-na-baze-2-serii/
+Title: Контейнерная электростанция Jenbacher 2 серии
+Описание: Контейнерная ГПЭС на базе Jenbacher серии 2: быстрый ввод в эксплуатацию, автономная генерация и когенерация. Поставка под ключ.
+
+URL: https://www.kts-eng.com/ru/product/konteinernaia-elektrostanciia-jenbacher-na-baze-3-serii/
+Title: Контейнерная электростанция Jenbacher 3 серии
+Описание: Контейнерная ГПЭС на базе Jenbacher серии 3. Подходит для природного газа, биогаза, свалочного газа.
+
+URL: https://www.kts-eng.com/ru/product/konteinernaia-elektrostanciia-jenbacher-na-baze-4-serii/
+Title: Контейнерная электростанция Jenbacher 4 серии
+Описание: Контейнерная ГПЭС на базе Jenbacher серии 4 для средних мощностей.
+
+---
+
+### GREENBOX — КОНТЕЙНЕРНАЯ ЭЛЕКТРОСТАНЦИЯ
+URL: https://www.kts-eng.com/ru/greenbox-energy/
+Title: GreenBox — контейнерная электростанция | KTS Engineering
+Описание: GreenBox — готовое контейнерное решение для собственной генерации на базе ГПУ Jenbacher. Снижение затрат на энергопотребление на 30%. Быстрый ввод в эксплуатацию. Энергосервисные контракты (оплата из экономии).
+
+---
+
+### ДВИГАТЕЛИ WAUKESHA (каталог)
+URL: https://www.kts-eng.com/ru/product-category/oborudovanie-waukesha/
+Title: Двигатели Waukesha (Ваукеша) — каталог | KTS Engineering
+Описание: Каталог газопоршневых двигателей Waukesha: серии VHP (4 и 5), VGF, 275GL+, mobileFLEX. Применение: нефтегаз, генерация, механический привод. Официальная поставка и оригинальный сервис в Украине.
+
+URL: https://www.kts-eng.com/ru/product/waukesha-vhp-4-seriya/
+Title: Газопоршневой двигатель Waukesha VHP 4 серия
+Описание: Двигатель Waukesha VHP 4-й серии (Ваукеша) для генерации и механического привода в нефтегазовой отрасли.
+
+URL: https://www.kts-eng.com/ru/product/waukesha-vhp-5-seriya/
+Title: Газопоршневой двигатель Waukesha VHP 5 серия
+Описание: Двигатель Waukesha VHP 5-й серии (Ваукеша) для генерации и механического привода.
+
+URL: https://www.kts-eng.com/ru/product/waukesha-vgf/
+Title: Газопоршневой двигатель Waukesha VGF
+Описание: Двигатель Waukesha VGF для генерации и механического привода. Работа в тяжёлых условиях.
+
+URL: https://www.kts-eng.com/ru/product/waukesha-275gl-plus/
+Title: Газопоршневой двигатель Waukesha 275GL+
+Описание: Компактный двигатель Waukesha 275GL+ для генерации и механического привода.
+
+URL: https://www.kts-eng.com/ru/product/waukesha-mobileflex/
+Title: Газопоршневой двигатель Waukesha mobileFLEX
+Описание: Мобильное решение Waukesha mobileFLEX для гибкого развёртывания в нефтегазовых проектах.
+
+---
+
+### BAKER HUGHES
+URL: https://www.kts-eng.com/ru/baker-hughes/
+Title: Газовые турбины и оборудование Baker Hughes | KTS Engineering
+Описание: KTS Engineering — официальный дистрибьютор Baker Hughes в Украине. Турбины Nuovo Pignone (производство: Флоренция, Италия) и компрессоры Thermodyn (Ле-Крёзо, Франция). Газовые турбины NovaLT (5, 12, 16 МВт): лучший в классе КПД, выбросы NOx до 9 ppm, готовность к водороду. Паровые турбины серий SC/SAC и MP/MC. Центробежные компрессоры BCL, MCL, PCL, ICL. Baker Hughes установлено более 5 000 компрессоров с 1960 года. Срок окупаемости NovaLT: 2–3 года.
+
+#### Оборудование Baker Hughes — страницы продуктов:
+
+URL: https://www.kts-eng.com/ru/product/nova-lt5-gas-turbines/
+Title: Газовая турбина NovaLT5 — Baker Hughes | KTS Engineering
+Описание: Газовая турбина NovaLT5-1, мощность 5,5 МВт, КПД 29,5%, NOx 15 ppm. Топливо: природный газ, смесь с H₂, высокоинертные газы.
+
+URL: https://www.kts-eng.com/ru/product/nova-lt12-gas-turbines/
+Title: Газовая турбина NovaLT12 — Baker Hughes | KTS Engineering
+Описание: Газовая турбина NovaLT12, мощность 12,5 МВт, КПД 35,3%, NOx 15 ppm (9 ppm по запросу). Тепловая и энергетическая эффективность >80%.
+
+URL: https://www.kts-eng.com/ru/product/nova-lt16-gas-turbines/
+Title: Газовая турбина NovaLT16 — Baker Hughes | KTS Engineering
+Описание: Газовая турбина NovaLT16, мощность 16,9 МВт, КПД 36,4%. Наиболее мощная в серии NovaLT.
+
+URL: https://www.kts-eng.com/ru/product/pgt25-lm2500-aeroderivative-gas-turbine/
+Title: Авиапроизводная газовая турбина PGT25/LM2500 — Baker Hughes
+Описание: Аэродеривативная газовая турбина PGT25/LM2500 Baker Hughes для нефтегазовой инфраструктуры.
+
+URL: https://www.kts-eng.com/ru/product/bcl-vertically-split-compressors/
+Title: Компрессоры BCL с вертикальным разъёмом — Baker Hughes
+Описание: Центробежные компрессоры BCL Baker Hughes (вертикальный разъём): нефтегаз, транспортировка газа.
+
+URL: https://www.kts-eng.com/ru/product/mcl-horizontally-split-compressors/
+Title: Компрессоры MCL с горизонтальным разъёмом — Baker Hughes
+Описание: Центробежные компрессоры MCL Baker Hughes (горизонтальный разъём).
+
+URL: https://www.kts-eng.com/ru/product/pcl-vertically-split-compressors/
+Title: Трубопроводные компрессоры PCL — Baker Hughes
+Описание: Компрессоры PCL Baker Hughes для транспортировки газа по трубопроводам.
+
+URL: https://www.kts-eng.com/ru/product/icl-zero-emissions-integrated-compressors/
+Title: Интегрированные компрессоры ICL Baker Hughes
+Описание: ICL — интегрированные компрессоры Baker Hughes с нулевым выбросом, бесступенчатый привод.
+
+URL: https://www.kts-eng.com/ru/product/porshnevye-kompressory-api-618/
+Title: Поршневые компрессоры API 618 — Baker Hughes
+Описание: Поршневые компрессоры Baker Hughes по стандарту API 618 для тяжёлой промышленности.
+
+---
+
+### NIDEC LEROY-SOMER
+URL: https://www.kts-eng.com/ru/nidec-leroy-somer/
+Title: Генераторы Nidec Leroy-Somer в Украине | KTS Engineering
+Описание: Электрогенераторы Nidec Leroy-Somer для газопоршневых установок. KTS Engineering — сертифицированный сервисный партнёр Nidec в Украине, Словакии и Узбекистане. Поставка, подбор и сервис генераторов для Jenbacher, Waukesha и Baker Hughes.
+
+---
+
+### РЕШЕНИЯ ПО ОТРАСЛЯМ
+
+URL: https://www.kts-eng.com/ru/solutions/
+Title: Эффективные решения для INNIO Jenbacher, Waukesha, Baker Hughes | KTS Engineering
+Описание: Раздел всех энергетических решений KTS Engineering: когенерация, тригенерация, биогаз, свалочный газ, промышленность, ЖКХ, нефтегаз, тепличные комплексы.
+
+URL: https://www.kts-eng.com/ru/solutions/kogeneraciya/
+Title: Когенерация | Когенерационные установки | KTS Engineering
+Описание: Когенерация (КГЭ/CHP) — одновременное производство электро- и теплоэнергии из одного источника топлива. КПД системы до 91%. Снижение затрат на 40% и более. Решения под ключ на базе ГПУ Jenbacher.
+
+URL: https://www.kts-eng.com/ru/solutions/trigeneraciya/
+Title: Тригенерация | KTS Engineering
+Описание: Тригенерация (ТГЭХ/CCHP) — производство электроэнергии, тепла и холода. Тепловая энергия из двигателя поступает в абсорбционную холодильную машину. Эффективно для торговых центров, больниц, пищевой промышленности.
+
+URL: https://www.kts-eng.com/ru/solutions/biogaz/
+Title: Биогаз — промышленные биогазовые установки | KTS Engineering
+Описание: Биогазовые решения на базе ГПУ Jenbacher: переработка отходов сельского хозяйства и пищевой промышленности в электро- и теплоэнергию. Крупнейший кейс: Теофипольский биогазовый комплекс 26,1 МВт. Реализация под ключ.
+
+URL: https://www.kts-eng.com/ru/solutions/svalochnyj-gaz/
+Title: Свалочный газ | KTS Engineering
+Описание: Решения для генерации из свалочного (полигонного) газа на базе Jenbacher JMC 312. Улавливание метана, нейтрализация запахов, предотвращение самовозгорания. Кейс ЛНК Кропивницкий: 635 кВт, €629 412/год прибыли.
+
+URL: https://www.kts-eng.com/ru/solutions/gaz-stochnih-vod/
+Title: Биогаз из сточных вод (канализации) | KTS Engineering
+Описание: Производство электро- и теплоэнергии из биогаза очистных станций. Снижение выбросов метана и затрат на обращение с осадком.
+
+URL: https://www.kts-eng.com/ru/solutions/promishlennost/
+Title: Промышленная электростанция | KTS Engineering
+Описание: Собственная генерация для промышленных предприятий: металлургия, химия, пищевая и перерабатывающая промышленность. Базовая нагрузка + технологический пар. Снижение затрат на энергоресурсы.
+
+URL: https://www.kts-eng.com/ru/solutions/zhilye-kompleksy/
+Title: Жилые комплексы и ЖКХ | KTS Engineering
+Описание: Децентрализованное тепло- и электроснабжение жилых микрорайонов. Защита от перебоев централизованной сети. Горячее водоснабжение и отопление.
+
+URL: https://www.kts-eng.com/ru/solutions/manevrovie-moshnosti/
+Title: Маневровые пиковые мощности | KTS Engineering
+Описание: Балансирующая и пиковая генерация на ГПУ Jenbacher и Waukesha. Запуск за 3–5 минут. Компенсация дефицита в энергосистеме, торговля мощностью.
+
+URL: https://www.kts-eng.com/ru/solutions/teplici/
+Title: Тепличные комплексы | KTS Engineering
+Описание: Когенерация и квадрогенерация для тепличных комплексов: утилизация тепла двигателя для обогрева, захват CO₂ выхлопных газов для повышения урожайности растений.
+
+URL: https://www.kts-eng.com/ru/solutions/neftegazovaya-promyshlenost/
+Title: Нефтегазовая промышленность | KTS Engineering
+Описание: Энергоснабжение нефтегазовых объектов на базе ГПУ Waukesha и турбин Baker Hughes: добыча, транспортировка, переработка, хранение. Работа на попутном нефтяном газе (ПНГ).
+
+URL: https://www.kts-eng.com/ru/solutions/razvedka-i-dobicha-nefti-i-gaza/
+Title: Разведка и добыча нефти и газа | KTS Engineering
+Описание: Энергетические решения для добывающих платформ и скважин. Использование ПНГ или природного газа непосредственно на месте добычи.
+
+URL: https://www.kts-eng.com/ru/solutions/pererabotka-i-raspredelenie-nefti-i-gaza-kts-engineering/
+Title: Переработка и распределение нефти и газа | KTS Engineering
+Описание: Энергетические решения для НПЗ, газоперерабатывающих заводов и распределительных сетей.
+
+URL: https://www.kts-eng.com/ru/solutions/transportirovka-i-hranenie-nefti-i-gaza/
+Title: Транспортировка и хранение нефти и газа | KTS Engineering
+Описание: Приводы компрессорных станций и питание объектов хранения. Оборудование Baker Hughes и Waukesha.
+
+URL: https://www.kts-eng.com/ru/solutions/trc/
+Title: Торговые центры и бизнес-центры | KTS Engineering
+Описание: Тригенерация для ТЦ и бизнес-центров: электричество + отопление зимой + кондиционирование летом. Резервное питание критических систем.
+
+---
+
+### СЕРВИС — JENBACHER
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/
+Title: Сервисное обслуживание оборудования Jenbacher | KTS Engineering
+Описание: KTS Engineering — сертифицированный сервисный партнёр INNIO Jenbacher в Украине. Инженеры прошли обучение на заводе в Йенбахе (Австрия). Полный спектр: диагностика, ремонт, капитальный ремонт, поставка оригинальных запасных частей. Контракты CSA/MSA/LTSA.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/puskonaladochnye-raboti/
+Title: Пусконаладочные работы Jenbacher | KTS Engineering
+Описание: Пусконаладочные работы (ПНР) ГПУ Jenbacher: программирование DIA.NE, синхронизация с сетью, испытания. Официальный авторизованный исполнитель.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/shef-montazh-gpu/
+Title: Шеф-монтаж оборудования Jenbacher | KTS Engineering
+Описание: Шеф-монтаж ГПУ Jenbacher: надзор и координация монтажных работ на объекте заказчика с техническим представителем KTS Engineering.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/garantijnoe-obsluzhivanie/
+Title: Гарантийное обслуживание Jenbacher | KTS Engineering
+Описание: Гарантийное обслуживание ГПУ Jenbacher в соответствии со стандартами INNIO. Поддержание заводской гарантии.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/postgarantijnoe-obsluzhivanie/
+Title: Постгарантийное обслуживание Jenbacher | KTS Engineering
+Описание: Постгарантийное обслуживание ГПУ Jenbacher: плановое ТО, регламентные работы, аварийный сервис.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/kapitalnyj-remont/
+Title: Капитальный ремонт Jenbacher | KTS Engineering
+Описание: Капитальный ремонт двигателей Jenbacher: полная разборка, дефектовка, замена изношенных компонентов, стендовые испытания. Восстановление ресурса до уровня нового оборудования.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/originalnye-zapasnye-chasti/
+Title: Оригинальные запасные части Jenbacher | KTS Engineering
+Описание: Оригинальные запасные части INNIO Jenbacher. Собственный склад в Киеве. Срочная доставка 24–48 ч. Заводская гарантия сохраняется.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/avarijnyj-sklad/
+Title: Аварийный склад запчастей Jenbacher | KTS Engineering
+Описание: Аварийный склад оригинальных запчастей Jenbacher: наиболее востребованные детали всегда в наличии для минимизации простоев.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/dogovor-na-servisnoe-obsluzhivanie/
+Title: Долгосрочный сервис Jenbacher | KTS Engineering
+Описание: Долгосрочные договоры на техническое обслуживание Jenbacher (LTSA): плановый сервис по фиксированной стоимости, предсказуемые затраты на эксплуатацию.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/csa-kontrakt/
+Title: CSA договор Jenbacher | KTS Engineering
+Описание: CSA (Comprehensive Service Agreement) — комплексный сервисный договор на обслуживание ГПУ Jenbacher. Включает все регламентные работы и оригинальные запчасти.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/msa-originalnye-zapchasti/
+Title: MSA — оригинальные запчасти Jenbacher | KTS Engineering
+Описание: MSA (Material Supply Agreement) — долгосрочный договор на поставку оригинальных запасных частей Jenbacher по согласованным ценам и срокам.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/myplant/
+Title: myPlant — онлайн-мониторинг Jenbacher | KTS Engineering
+Описание: myPlant — облачная платформа INNIO APM для удалённого мониторинга ГПУ Jenbacher в реальном времени 24/7. Функции: температура охлаждающей жидкости, давление масла, вибрация, детонация в каждом цилиндре, ИИ-диагностика, удалённый HMI-доступ (DIA.NE XT3/XT4/ESM2), приложение iOS/Android, автоматические отчёты, карта флота.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/obuchenie-jenbacher/
+Title: Обучение персонала Jenbacher | KTS Engineering
+Описание: Обучение эксплуатационного персонала работе с ГПУ Jenbacher: онлайн, на объекте заказчика или в тренинговом центре INNIO в Австрии. Ежегодная сертификация.
+
+URL: https://www.kts-eng.com/ru/service/innio-jenbacher/postavka-oborudovaniya/
+Title: Поставка оборудования Jenbacher | KTS Engineering
+Описание: Прямая поставка ГПУ Jenbacher с завода INNIO в Йенбахе, Австрия. Официальные дилерские условия, оригинальное оборудование с заводской документацией.
+
+---
+
+### СЕРВИС — WAUKESHA
+
+URL: https://www.kts-eng.com/ru/service/waukesha/
+Title: Сервисное обслуживание оборудования Waukesha | KTS Engineering
+Описание: KTS Engineering — сертифицированный сервисный партнёр INNIO Waukesha в Украине. Диагностика, ремонт, капитальный ремонт двигателей Waukesha. Поставка оригинальных и восстановленных запчастей. Контракты CSA/MSA.
+
+URL: https://www.kts-eng.com/ru/service/waukesha/originalnye-zapasnye-chasti-waukesha/
+Title: Оригинальные запасные части Waukesha | KTS Engineering
+Описание: OEM запасные части Waukesha (Ваукеша). Поставка со склада в Киеве, срочная доставка по Украине.
+
+URL: https://www.kts-eng.com/ru/service/waukesha/vosstanovlennye-zapchasti/
+Title: Восстановленные запчасти Waukesha | KTS Engineering
+Описание: Восстановленные (реконструированные) запасные части Waukesha: экономичная альтернатива новым, соответствующая стандартам производителя.
+
+URL: https://www.kts-eng.com/ru/service/waukesha/myplant-onlajn-monitoring-oborudovaniya-waukesha/
+Title: myPlant — онлайн-мониторинг Waukesha | KTS Engineering
+Описание: Удалённый мониторинг двигателей Waukesha через платформу myPlant: параметры двигателя в реальном времени, аварийные уведомления.
+
+---
+
+### СЕРВИС — BAKER HUGHES
+
+URL: https://www.kts-eng.com/ru/service/baker-hughes/
+Title: Сервисное обслуживание Baker Hughes | KTS Engineering
+Описание: Сервис и модернизация турбин Nuovo Pignone и компрессоров Thermodyn Baker Hughes. Инженеры KTS Engineering прошли обучение на заводах в Италии и Франции. Контракты CSA/MSA/LTSA. Выездной сервис по Украине.
+
+URL: https://www.kts-eng.com/ru/service/baker-hughes/dolgosrochnoe-servisnoe-soglashenie/
+Title: Долгосрочный сервис Baker Hughes | KTS Engineering
+Описание: Долгосрочные сервисные соглашения (LTSA) на обслуживание оборудования Baker Hughes: предсказуемые затраты, приоритетное реагирование.
+
+URL: https://www.kts-eng.com/ru/service/baker-hughes/modernizaczionnye-resheniya/
+Title: Модернизационные решения Baker Hughes | KTS Engineering
+Описание: Модернизация турбин и компрессоров Baker Hughes: повышение КПД, снижение эмиссии NOx, адаптация под водородное топливо.
+
+URL: https://www.kts-eng.com/ru/service/baker-hughes/originalnye-zapasnye-chasti-bh/
+Title: Оригинальные запасные части Baker Hughes | KTS Engineering
+Описание: Поставка оригинальных запасных частей Baker Hughes (Nuovo Pignone, Thermodyn) в Украине.
+
+---
+
+### СЕРВИС — NIDEC LEROY-SOMER
+
+URL: https://www.kts-eng.com/ru/service/nidec/
+Title: Сервисное обслуживание Nidec Leroy-Somer | KTS Engineering
+Описание: Сервис генераторов Nidec Leroy-Somer в Украине, Словакии и Узбекистане. Гарантийное и постгарантийное обслуживание, капитальный ремонт, модернизация, оригинальные запасные части.
+
+URL: https://www.kts-eng.com/ru/service/nidec/kapitalnyy-remont/
+Title: Капитальный ремонт Nidec Leroy-Somer | KTS Engineering
+Описание: Капитальный ремонт промышленных генераторов Nidec Leroy-Somer с восстановлением ресурса.
+
+URL: https://www.kts-eng.com/ru/service/nidec/modernizacziya-oborudovaniya/
+Title: Модернизация оборудования Nidec Leroy-Somer | KTS Engineering
+Описание: Модернизация генераторов Nidec Leroy-Somer: обновление обмоток, систем управления, повышение мощности и надёжности.
+
+---
+
+### MYPLANT — УДАЛЁННЫЙ МОНИТОРИНГ
+URL: https://www.kts-eng.com/ru/service/myplant/
+Title: myPlant — онлайн мониторинг Jenbacher | KTS Engineering
+Описание: myPlant — облачная система APM (Asset Performance Management) от INNIO. Предиктивная ИИ-диагностика, удалённый доступ к HMI-контроллеру двигателя (DIA.NE XT3, XT4, ESM2). Снижение незапланированных простоев. Интеграция анализа масла. Мобильное приложение iOS/Android. Официальное внедрение и поддержка от KTS Engineering.
+
+---
+
+### ВЫБОР ОБОРУДОВАНИЯ (образовательный раздел)
+
+URL: https://www.kts-eng.com/ru/kak-vibrat-oborudovanie-dlia-virabotki-elektroenergii/
+Title: Как выбрать оборудование для генерации | KTS Engineering
+Описание: Практический гайд от инженеров KTS Engineering по выбору ГПУ: ключевые параметры (КПД, CAPEX, OPEX, сроки ввода, мощность). Базовый материал для клиентов, рассматривающих собственную генерацию.
+
+URL: https://www.kts-eng.com/ru/kak-vibrat-oborudovanie-dlia-virabotki-elektroenergii/elektricheskij-kpd-i-obshhaya-effektivnost-resheniya/
+Title: Электрический КПД газопоршневой установки | KTS Engineering
+Описание: Что такое электрический КПД и суммарная эффективность ГПУ, как их сравнивать при выборе. Разница между КПД двигателя и КПД всей системы когенерации.
+
+URL: https://www.kts-eng.com/ru/kak-vibrat-oborudovanie-dlia-virabotki-elektroenergii/effektivnost-pri-chastichnoj-nagruzke/
+Title: Эффективность ГПУ при частичной нагрузке | KTS Engineering
+Описание: Как частичная нагрузка влияет на КПД и расход газа газопоршневой установки. Важно при проектировании энергоцентра с переменным потреблением.
+
+URL: https://www.kts-eng.com/ru/kak-vibrat-oborudovanie-dlia-virabotki-elektroenergii/kapitalnye-zatraty-capex/
+Title: Капитальные затраты (CAPEX) на ГПУ | KTS Engineering
+Описание: Из чего складываются капитальные затраты на газопоршневую электростанцию: стоимость оборудования, монтажа, инфраструктуры. Как оценить CAPEX при выборе.
+
+URL: https://www.kts-eng.com/ru/kak-vibrat-oborudovanie-dlia-virabotki-elektroenergii/operaczionnye-zatraty-opex/
+Title: Операционные затраты (OPEX) на ГПУ | KTS Engineering
+Описание: Операционные затраты ГПЭС: топливо, плановый сервис, запчасти, масла. Как считать совокупную стоимость владения (TCO).
+
+URL: https://www.kts-eng.com/ru/kak-vibrat-oborudovanie-dlia-virabotki-elektroenergii/sroki-izgotovleniya-i-vvoda-v-ekspluatacziyu-oborudovaniya/
+Title: Сроки изготовления и ввода ГПУ | KTS Engineering
+Описание: Сколько времени занимает изготовление, поставка и ввод в эксплуатацию газопоршневой установки. Типичные сроки для контейнерных и стационарных решений.
+
+URL: https://www.kts-eng.com/ru/kak-vibrat-oborudovanie-dlia-virabotki-elektroenergii/vremya-vyhoda-na-polnuyu-moshhnost/
+Title: Время выхода ГПУ на полную мощность | KTS Engineering
+Описание: Сколько времени требуется газопоршневой установке для выхода на полную мощность. Критично для маневровой и резервной генерации.
+
+URL: https://www.kts-eng.com/ru/kak-vibrat-oborudovanie-dlia-virabotki-elektroenergii/gotovye-k-ispolzovaniyu-elektrostanczii/
+Title: Готовые к использованию электростанции | KTS Engineering
+Описание: Контейнерные БКАЭС заводской готовности: преимущества быстрого ввода, сравнение со стационарным исполнением.
+
+---
+
+### ФИНАНСИРОВАНИЕ
+
+URL: https://www.kts-eng.com/ru/company/prodazha-oborudovanyya-jenbacher-v-kredyt/
+Title: Оборудование Jenbacher в кредит | KTS Engineering
+Описание: Покупка газопоршневых установок Jenbacher в кредит через партнёра OTP Bank. Условия финансирования, ставки, оформление для юридических лиц Украины.
+
+URL: https://www.kts-eng.com/ru/company/lyzyngovye-programmy/
+Title: Лизинговые программы на оборудование | KTS Engineering
+Описание: Лизинговые программы на ГПУ Jenbacher: TEKOM LEASING. Собственная генерация без крупных капитальных вложений. Условия и оформление.
+
+---
+
+### КАЛЬКУЛЯТОР
+URL: https://www.kts-eng.com/ru/calculator/
+Title: Калькулятор выгоды собственной генерации | KTS Engineering
+Описание: Онлайн-калькулятор для оценки окупаемости и экономии от собственной генерации на ГПУ Jenbacher: вводите текущую стоимость электроэнергии, мощность потребления, получаете расчёт CAPEX/OPEX и срок окупаемости.
+
+---
+
+### РЕАЛИЗОВАННЫЕ ПРОЕКТЫ
+
+URL: https://www.kts-eng.com/ru/projects/
+Title: Реализованные проекты собственной генерации | KTS Engineering
+Описание: Портфолио реализованных проектов KTS Engineering: когенерация, биогаз, свалочный газ, промышленность, ЖКХ, нефтегаз. Результаты в цифрах — экономия и надёжность.
+
+URL: https://www.kts-eng.com/ru/projects/teofipolskaia-energeticheskaia-kompaniia/
+Title: Кейс: Теофипольский биогаз 26,1 МВт | KTS Engineering
+Описание: Теофипольский биогазовый комплекс — крупнейший в Европе на момент реализации: 26,1 МВт. Заказчик: «Галс Агро». Переработка сельскохозяйственных отходов (навоз, силос) в электро- и теплоэнергию.
+
+URL: https://www.kts-eng.com/ru/projects/coca-cola/
+Title: Кейс Coca-Cola: −40% выбросов, −51% затрат | KTS Engineering
+Описание: Тригенерационный проект для завода безалкогольных напитков: снижение выбросов CO₂ на 40%, снижение затрат на энергоресурсы на 51%. Полная энергонезависимость предприятия.
+
+URL: https://www.kts-eng.com/ru/projects/energoeffektivnost-kak-konkurentnoe-preimushhestvo/
+Title: Кейс: энергоэффективность как преимущество | KTS Engineering
+Описание: КАУ (Kyiv-Atlantic Ukraine): собственный энергоцентр для зерноперерабатывающего центра AGROLIFE GmbH. Полная энергонезависимость, снижение себестоимости продукции.
+
+URL: https://www.kts-eng.com/ru/projects/teofipolskaia-energeticheskaia-kompaniia/
+Title: Крупнейший биогазовый комплекс Европы — 26,1 МВт | KTS Engineering
+
+URL: https://www.kts-eng.com/ru/projects/reshili-ekologicheskuiu-problemu-regiona-s-pribyliu/
+Title: Кейс: экология региона и €629 412 прибыли | KTS Engineering
+Описание: ЛНК Кропивницкий (2019): свалочный газ, JMC 312 GS-L.L (635 кВт), 38 скважин. Выработка 5,08 млн кВт·ч/год, прибыль €629 412/год. Устранено самовозгорание на полигоне.
+
+URL: https://www.kts-eng.com/ru/projects/nadezhnyj-istochnik-energosnabzheniya-dlya-predpriyatiya-s-nepreryvnym-proizvodstvennym-cziklom-copy-copy-copy/
+Title: Кейс NOVA: генерация и энергобезопасность | KTS Engineering
+Описание: NOVA (Nova Poshta) — крупнейшая курьерская сеть Украины (6 000+ отделений). Собственная генерация как стратегия энергобезопасности, реализована после 2022 года.
+
+URL: https://www.kts-eng.com/ru/projects/nadezhnyj-istochnik-energosnabzheniya-dlya-predpriyatiya-s-nepreryvnym-proizvodstvennym-cziklom-copy/
+Title: Кейс: генерация для безперервного производства (STALKANAT) | KTS Engineering
+Описание: STALKANAT — крупнейший производитель стальных канатов в Восточной Европе (916 сотрудников, 30+ стран экспорта). Собственная генерация для производственной независимости.
+
+URL: https://www.kts-eng.com/ru/projects/ot-dobychi-uglerodov-k-prodazhe-elektroenergii/
+Title: Кейс: от добычи газа к электроэнергии | KTS Engineering
+Описание: Tisagaz (Cub Energy Inc.): переход от добычи углеводородов к продаже электроэнергии через собственную генерацию на базе Jenbacher.
+
+URL: https://www.kts-eng.com/ru/projects/investiczii-agrokoholdinga-v-ekologiyu-regiona-i-chistoe-proizvodstvo/
+Title: Кейс: инвестиции агрохолдинга в экологию | KTS Engineering
+Описание: I&U Group — биогазовая генерация из сельскохозяйственных отходов. Инвестиции в экологию Кировоградского региона и чистое производство.
+
+URL: https://www.kts-eng.com/ru/projects/kak-reshit-ekologicheskuiu-problemu-snizit-rashodi-predpriiatiia-i-poluchit-pribil-iz-othodov/
+Title: Кейс: прибыль из отходов на биогазе | KTS Engineering
+Описание: Как решить экологическую проблему, снизить расходы и получить прибыль из отходов через биогазовую генерацию.
+
+URL: https://www.kts-eng.com/ru/projects/teofipolskaia-energeticheskaia-kompaniia/
+Title: Теофипольский биогазовый комплекс 26,1 МВт | KTS Engineering
+
+URL: https://www.kts-eng.com/ru/projects/zbilshennya-efektyvnosti-ta-nadijnosti-energoczentru/
+Title: Кейс: повышение надёжности энергоцентра (Goodvalley) | KTS Engineering
+Описание: Goodvalley Ukraine (датские инвесторы): модернизация биогазового энергоцентра — повышение КПД и надёжности действующей установки Jenbacher.
+
+URL: https://www.kts-eng.com/ru/projects/nadezhnyj-istochnik-energosnabzheniya-dlya-predpriyatiya-s-nepreryvnym-proizvodstvennym-cziklom-copy-copy/
+Title: Кейс: энергоцентр для кондитерской фабрики | KTS Engineering
+Описание: Тростянецкая кондитерская фабрика (международная группа): снижение стоимости электроэнергии и повышение надёжности энергоснабжения.
+
+URL: https://www.kts-eng.com/ru/projects/v-techenie-goda-proizvoditel-alkogolya-obespechivaet-nepreryvnost-tehnologicheskogo-proczessa-i-ekonomicheskuyu-stabilnost-predpriyatiya-blagodarya-jenbacher/
+Title: Кейс: Jenbacher для производителя алкоголя | KTS Engineering
+Описание: Крупнейший производитель алкоголя в Украине (осн. 1992, топ экспортёр водки, 80+ стран). Год стабильной работы: непрерывность производства и экономическая устойчивость на ГПУ Jenbacher.
+
+URL: https://www.kts-eng.com/ru/projects/kak-povysit-energoeffektivnost-proizvodstva-i-obespechit-stabilnoe-energosnabzhenie-proizvoditelya-napitkov-i-snekov/
+Title: Кейс: энергоснабжение производителя напитков и снеков | KTS Engineering
+Описание: Один из крупнейших производителей напитков и снеков Украины (20+ лет на рынке). Повышение энергоэффективности и стабильность энергоснабжения.
+
+URL: https://www.kts-eng.com/ru/projects/kak-povysit-energoeffektivnost-proizvodstva-i-obespechit-stabilnoe-energosnabzhenie-proizvoditelya-napitkov-i-snekov-copy/
+Title: Кейс: энергоцентр крахмального завода | KTS Engineering
+Описание: Жаркентский крахмалопаточный завод (Казахстан, осн. 2005, до 150 000 т зерна/год, ~300 сотрудников): энергоцентр как основа стабильной работы.
+
+URL: https://www.kts-eng.com/ru/projects/vyrabotka-biogaza-iz-mono-substrata-saharnogo-zhoma/
+Title: Кейс: биогаз из сахарного жома | KTS Engineering
+Описание: Производство биогаза из моносубстрата сахарного жома. Эффективное использование отходов сахарного производства для генерации.
+
+---
+
+### КОНТАКТЫ
+URL: https://www.kts-eng.com/ru/contacts/
+Title: Контакты KTS Engineering — связаться с нами
+Описание: Контакты KTS Engineering: телефоны, email и адреса офисов в Украине, Словакии, Австрии, Узбекистане и Болгарии. Форма обратной связи. Заказ консультации по собственной генерации.
+Телефон Украина: +38 044 495 2442 | Email: office@kts-eng.com
+
+---
+
+### ОФИЦИАЛЬНЫЕ ПРОФИЛИ И ССЫЛКИ ДЛЯ ВЕРИФИКАЦИИ
+
+- Сайт (рус.): https://www.kts-eng.com/ru/
+- Сайт (укр.): https://www.kts-eng.com/
+- Сайт (англ.): https://www.kts-eng.com/en/
+- LinkedIn: https://www.linkedin.com/company/kts-engineering
+- Facebook: https://www.facebook.com/kts.engineering
+- Профиль партнёра INNIO Jenbacher: https://www.jenbacher.com/ru/providers/kts-engineering/
+- Сертифицированный партнёр Nidec: https://moen.nidec.com/ru-RU/power/Service/Service-Network/Certified-Service-Partners-for-alternators/KTS-Engineering
+- myPlant (INNIO APM): https://myplant.io/ru/
+- Baker Hughes: https://www.bakerhughes.com/
+- OTP Bank (кредит): https://www.otpbank.com.ua
+- TEKOM LEASING (лизинг): https://tekom-lease.com.ua
