@@ -6,7 +6,6 @@
      H1: Когенерация: термины и определения
      ============================================================ -->
 
-<!-- JSON-LD: DefinedTermSet -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -21,7 +20,6 @@
 }
 </script>
 
-<!-- JSON-LD: FAQPage -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -52,20 +50,20 @@
 .kts-gl-page .gl-breadcrumb a{color:#1a5da6;text-decoration:none}
 .kts-gl-page .gl-breadcrumb a:hover{text-decoration:underline}
 .kts-gl-page .gl-intro{background:#f4f8fc;border-left:4px solid #1a5da6;padding:16px 20px;border-radius:0 4px 4px 0;margin-bottom:24px;font-size:.95rem}
+
 /* Содержание */
-.kts-gl-page .gl-toc{background:#fff;border:1px solid #d0dce8;border-radius:6px;padding:16px 18px 12px;margin-bottom:32px}
-.kts-gl-page .gl-toc-title{font-size:.95rem;font-weight:700;color:#0d2b4e;margin:0 0 12px}
-.kts-gl-page .gl-toc-sections{font-size:.82rem;color:#5a6a7e;margin:0 0 12px;padding:0 0 10px;border-bottom:1px solid #e8eef4}
-.kts-gl-page .gl-toc-sections span{margin-right:4px}
-.kts-gl-page .gl-toc-sections a{color:#1a5da6;text-decoration:none;font-weight:600}
-.kts-gl-page .gl-toc-sections a:hover{text-decoration:underline}
-.kts-gl-page .gl-toc-cols{display:grid;grid-template-columns:1fr 1fr;gap:0 20px}
-.kts-gl-page .gl-toc-cols ul{margin:0;padding:0;list-style:none}
-.kts-gl-page .gl-toc-cols li{margin-bottom:3px;font-size:.85rem;padding-left:10px;position:relative}
-.kts-gl-page .gl-toc-cols li::before{content:"#";position:absolute;left:0;color:#b0bdcc;font-size:.75rem;top:2px}
-.kts-gl-page .gl-toc-cols a{color:#1a5da6;text-decoration:none}
-.kts-gl-page .gl-toc-cols a:hover{text-decoration:underline}
-/* Разделы */
+.kts-gl-page .gl-toc{background:#fff;border:1px solid #d0dce8;border-radius:6px;padding:16px 18px 14px;margin-bottom:32px}
+.kts-gl-page .gl-toc-title{font-size:.95rem;font-weight:700;color:#0d2b4e;margin:0 0 14px}
+.kts-gl-page .gl-toc-group{margin-bottom:12px}
+.kts-gl-page .gl-toc-group:last-child{margin-bottom:0}
+.kts-gl-page .gl-toc-section-link{display:inline-block;font-size:.82rem;font-weight:700;color:#0d2b4e;text-decoration:none;background:#edf2f8;border-radius:3px;padding:2px 8px;margin-bottom:5px}
+.kts-gl-page .gl-toc-section-link:hover{background:#1a5da6;color:#fff}
+.kts-gl-page .gl-toc-terms{display:flex;flex-wrap:wrap;gap:4px 6px;padding-left:2px}
+.kts-gl-page .gl-toc-terms a{font-size:.8rem;color:#1a5da6;text-decoration:none;white-space:nowrap}
+.kts-gl-page .gl-toc-terms a:hover{text-decoration:underline}
+.kts-gl-page .gl-toc-terms span{font-size:.8rem;color:#b0bdcc}
+
+/* Разделы и термины */
 .kts-gl-page h2.gl-section{font-size:1.1rem;font-weight:700;color:#0d2b4e;margin:36px 0 16px;padding-bottom:6px;border-bottom:2px solid #1a5da6;display:inline-block}
 .kts-gl-page dl{margin:0 0 8px}
 .kts-gl-page dt{font-size:1.02rem;font-weight:700;color:#0d2b4e;margin:20px 0 6px;padding-left:12px;border-left:3px solid #1a5da6}
@@ -77,12 +75,13 @@
 .kts-gl-page dd .gl-link a{color:#1a5da6}
 .kts-gl-page dd ul{margin:8px 0 8px 18px}
 .kts-gl-page dd ul li{margin-bottom:4px}
+
+/* Навигация и CTA */
 .kts-gl-page .gl-nav-bottom{margin-top:40px;padding-top:20px;border-top:1px solid #d0dce8;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px;font-size:.9rem}
 .kts-gl-page .gl-nav-bottom a{color:#1a5da6;text-decoration:none}
 .kts-gl-page .gl-nav-bottom a:hover{text-decoration:underline}
 .kts-gl-page .gl-cta{background:#0d2b4e;color:#fff;padding:18px 22px;border-radius:6px;margin-top:32px;font-size:.95rem}
 .kts-gl-page .gl-cta a{color:#7eb4e2}
-@media(max-width:600px){.kts-gl-page .gl-toc-cols{grid-template-columns:1fr}}
 </style>
 
 <div class="kts-gl-page">
@@ -95,58 +94,74 @@
 Словарь содержит термины и определения в области когенерации - технологии одновременного производства электроэнергии и тепла. Определения написаны инженерами <strong>KTS Engineering</strong> - официального дистрибьютора INNIO Jenbacher в Украине с 2003 года, реализовавшего 410+ когенерационных установок суммарной мощностью 690+ МВт.
 </div>
 
-<!-- ПОЛНОЕ СОДЕРЖАНИЕ -->
-<nav class="gl-toc" aria-label="Термины этого раздела">
+<!-- СОДЕРЖАНИЕ -->
+<nav class="gl-toc" aria-label="Содержание раздела">
   <p class="gl-toc-title">Термины этого раздела</p>
-  <p class="gl-toc-sections">
-    <span>Разделы:</span>
-    <a href="#section-base">Основные</a> &middot;
-    <a href="#section-fuel">По топливу и отраслям</a> &middot;
-    <a href="#section-params">Параметры</a> &middot;
-    <a href="#section-economy">Экономика</a> &middot;
-    <a href="#section-types">Типы исполнения</a>
-  </p>
-  <div class="gl-toc-cols">
-    <ul>
-      <li><a href="#kogeneratsiya">Когенерация</a></li>
-      <li><a href="#kogeneratsionnaya-ustanovka">Когенерационная установка</a></li>
-      <li><a href="#kgu">КГУ</a></li>
-      <li><a href="#chp">CHP (Combined Heat and Power)</a></li>
-      <li><a href="#kogeneratsionny-kompleks">Когенерационный комплекс</a></li>
-      <li><a href="#mini-tets">Мини-ТЭЦ</a></li>
-      <li><a href="#kogeneratsionny-modul">Когенерационный модуль</a></li>
-      <li><a href="#kogeneracionnaya-tets">Когенерационная ТЭЦ</a></li>
-      <li><a href="#kogeneratsiya-na-prirodnom-gaze">Когенерация на природном газе</a></li>
-      <li><a href="#kogeneratsiya-na-biogazе">Когенерация на биогазе</a></li>
-      <li><a href="#kogeneratsiya-na-svalochn-gaze">Когенерация на свалочном газе</a></li>
-      <li><a href="#kogeneratsiya-na-shakhtnom-metane">Когенерация на шахтном метане</a></li>
-      <li><a href="#kogeneratsiya-na-png">Когенерация на попутном нефтяном газе (ПНГ)</a></li>
-    </ul>
-    <ul>
-      <li><a href="#kogeneratsiya-dlya-promyshlennosti">Когенерация для промышленности</a></li>
-      <li><a href="#kogeneratsiya-dlya-zhkkh">Когенерация для ЖКХ</a></li>
-      <li><a href="#kogeneratsiya-teplitsy">Когенерация для тепличных комплексов</a></li>
-      <li><a href="#kogeneratsiya-trc">Когенерация для ТРЦ и бизнес-центров</a></li>
-      <li><a href="#elektrichesky-kpd">Электрический КПД</a></li>
-      <li><a href="#teplovoy-kpd">Тепловой КПД</a></li>
-      <li><a href="#obshchy-kpd">Общий КПД системы</a></li>
-      <li><a href="#elektricheskaya-moshchnost">Электрическая мощность</a></li>
-      <li><a href="#teplovaya-moshchnost">Тепловая мощность</a></li>
-      <li><a href="#koeffitsient-ispolzovaniya-topliva">КИТ (коэффициент использования топлива)</a></li>
-      <li><a href="#godovaya-vyrabotka-elektroenergii">Годовая выработка электроэнергии</a></li>
-      <li><a href="#sebestoimost-elektroenergii">Себестоимость собственной электроэнергии</a></li>
-      <li><a href="#snijenie-co2">Снижение выбросов CO2</a></li>
-      <li><a href="#okupaemost-kogeneratsii">Окупаемость когенерации</a></li>
-      <li><a href="#capex">CAPEX</a></li>
-      <li><a href="#opex">OPEX</a></li>
-      <li><a href="#tcо">TCO</a></li>
-      <li><a href="#lcoe">LCOE</a></li>
-      <li><a href="#finansirovanie">Финансирование проекта</a></li>
-      <li><a href="#statsionarnaya">Стационарная установка</a></li>
-      <li><a href="#konteinernaya">Контейнерная установка (БКАЭС)</a></li>
-      <li><a href="#modulnaya">Модульная электростанция</a></li>
-      <li><a href="#kogeneratsiya-pod-klyuch">Когенерация «под ключ»</a></li>
-    </ul>
+
+  <div class="gl-toc-group">
+    <a class="gl-toc-section-link" href="#section-base">Основные термины</a>
+    <div class="gl-toc-terms">
+      <a href="#kogeneratsiya">Когенерация</a><span>&middot;</span>
+      <a href="#kogeneratsionnaya-ustanovka">Когенерационная установка</a><span>&middot;</span>
+      <a href="#kgu">КГУ</a><span>&middot;</span>
+      <a href="#chp">CHP</a><span>&middot;</span>
+      <a href="#kogeneratsionny-kompleks">Когенерационный комплекс</a><span>&middot;</span>
+      <a href="#mini-tets">Мини-ТЭЦ</a><span>&middot;</span>
+      <a href="#kogeneratsionny-modul">Когенерационный модуль</a><span>&middot;</span>
+      <a href="#kogeneracionnaya-tets">Когенерационная ТЭЦ</a>
+    </div>
+  </div>
+
+  <div class="gl-toc-group">
+    <a class="gl-toc-section-link" href="#section-fuel">По топливу и отраслям</a>
+    <div class="gl-toc-terms">
+      <a href="#kogeneratsiya-na-prirodnom-gaze">Когенерация на природном газе</a><span>&middot;</span>
+      <a href="#kogeneratsiya-na-biogazе">На биогазе</a><span>&middot;</span>
+      <a href="#kogeneratsiya-na-svalochn-gaze">На свалочном газе</a><span>&middot;</span>
+      <a href="#kogeneratsiya-na-shakhtnom-metane">На шахтном метане</a><span>&middot;</span>
+      <a href="#kogeneratsiya-na-png">На ПНГ</a><span>&middot;</span>
+      <a href="#kogeneratsiya-dlya-promyshlennosti">Для промышленности</a><span>&middot;</span>
+      <a href="#kogeneratsiya-dlya-zhkkh">Для ЖКХ</a><span>&middot;</span>
+      <a href="#kogeneratsiya-teplitsy">Для тепличных комплексов</a><span>&middot;</span>
+      <a href="#kogeneratsiya-trc">Для ТРЦ и бизнес-центров</a>
+    </div>
+  </div>
+
+  <div class="gl-toc-group">
+    <a class="gl-toc-section-link" href="#section-params">Параметры установки</a>
+    <div class="gl-toc-terms">
+      <a href="#elektrichesky-kpd">Электрический КПД</a><span>&middot;</span>
+      <a href="#teplovoy-kpd">Тепловой КПД</a><span>&middot;</span>
+      <a href="#obshchy-kpd">Общий КПД системы</a><span>&middot;</span>
+      <a href="#elektricheskaya-moshchnost">Электрическая мощность</a><span>&middot;</span>
+      <a href="#teplovaya-moshchnost">Тепловая мощность</a><span>&middot;</span>
+      <a href="#koeffitsient-ispolzovaniya-topliva">КИТ</a><span>&middot;</span>
+      <a href="#godovaya-vyrabotka-elektroenergii">Годовая выработка</a><span>&middot;</span>
+      <a href="#sebestoimost-elektroenergii">Себестоимость электроэнергии</a><span>&middot;</span>
+      <a href="#snijenie-co2">Снижение выбросов CO2</a>
+    </div>
+  </div>
+
+  <div class="gl-toc-group">
+    <a class="gl-toc-section-link" href="#section-economy">Экономика проекта</a>
+    <div class="gl-toc-terms">
+      <a href="#okupaemost-kogeneratsii">Окупаемость</a><span>&middot;</span>
+      <a href="#capex">CAPEX</a><span>&middot;</span>
+      <a href="#opex">OPEX</a><span>&middot;</span>
+      <a href="#tcо">TCO</a><span>&middot;</span>
+      <a href="#lcoe">LCOE</a><span>&middot;</span>
+      <a href="#finansirovanie">Финансирование (кредит, лизинг, ESCO)</a>
+    </div>
+  </div>
+
+  <div class="gl-toc-group">
+    <a class="gl-toc-section-link" href="#section-types">Типы исполнения</a>
+    <div class="gl-toc-terms">
+      <a href="#statsionarnaya">Стационарная установка</a><span>&middot;</span>
+      <a href="#konteinernaya">Контейнерная (БКАЭС)</a><span>&middot;</span>
+      <a href="#modulnaya">Модульная электростанция</a><span>&middot;</span>
+      <a href="#kogeneratsiya-pod-klyuch">Когенерация «под ключ»</a>
+    </div>
   </div>
 </nav>
 
@@ -410,7 +425,7 @@ KTS Engineering предлагает три модели финансирова�
 <dt id="konteinernaya">Контейнерная когенерационная установка (БКАЭС)</dt>
 <dd>
 Полностью скомпонованный энергетический модуль, смонтированный в стальном контейнере на заводе и готовый к работе после подключения к газовой и электрической сетям. Контейнерное исполнение (<a href="/ru/glossary/gazoporshn-ustanovka/#bkaes">БКАЭС</a>) сокращает сроки монтажа на объекте до нескольких дней и снижает затраты на строительно-монтажные работы. KTS Engineering поставляет контейнерные установки Jenbacher серий 2, 3 и 4.
-<p class="gl-also">Связанные термины: <a href="#statsionarnaya">стационарная установка</a> &middot; <a href="/ru/glossary/gazoporshn-ustanovka/#bkaes">БКАЭС</a> &middot; <a href="/ru/glossary/gazoporshn-ustanovka/#kogeneratsionny-modul">когенерационный модуль</a></p>
+<p class="gl-also">Связанные термины: <a href="#statsionarnaya">стационарная установка</a> &middot; <a href="/ru/glossary/gazoporshn-ustanovka/#bkaes">БКАЭС</a></p>
 <p class="gl-link">&#8594; <a href="/ru/product-category/kontejnery-dlya-gpu/">Контейнерные электростанции</a> &nbsp;&#183;&nbsp; <a href="/ru/greenbox-energy/">GreenBox</a></p>
 </dd>
 
@@ -428,15 +443,15 @@ KTS Engineering предлагает три модели финансирова�
 
 </dl>
 
-<!-- CTA -->
+<!-- CTA - уникальный для страницы когенерации -->
 <div class="gl-cta">
-<strong>Нужен расчёт когенерационной установки для вашего предприятия?</strong><br>
-Инженеры KTS Engineering выполнят предварительный расчёт бесплатно: мощность, КПД, окупаемость, CAPEX и OPEX. <a href="/ru/calculator/">Онлайн-калькулятор &rarr;</a> или <a href="/ru/contacts/">свяжитесь с нами &rarr;</a>
+<strong>Хотите знать, сколько сэкономит когенерация на вашем объекте?</strong><br>
+Введите мощность потребления и тариф на электроэнергию - онлайн-калькулятор KTS Engineering покажет <a href="#ocupaemost-kogeneratsii">срок окупаемости</a>, <a href="#capex">CAPEX</a> и <a href="#sebestoimost-elektroenergii">себестоимость собственной электроэнергии</a> за 30 секунд. <a href="/ru/calculator/">Перейти к калькулятору &rarr;</a>
 </div>
 
 <div class="gl-nav-bottom">
   <a href="/ru/glossary/">&larr; Все разделы глоссария</a>
-  <a href="/ru/glossary/trigeneratsiya/">Следующий раздел: Тригенерация (CCHP) &rarr;</a>
+  <a href="/ru/glossary/trigeneratsiya/">Следующий: Тригенерация (CCHP) &rarr;</a>
 </div>
 
 </div><!-- /kts-gl-page -->
